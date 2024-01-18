@@ -1,5 +1,5 @@
 <h1 align="center">About HMD</h1>
-<p align="center">Consistently fascinated by astronomy and cosmology, especially intrigued by the utilization of extensive astronomical data. Proficient in Python programming and enthusiastic about artificial intelligence. Currently a graduate student specializing in cosmological data science. </p>
+<p align="center">Consistently fascinated by astronomy and cosmology, especially intrigued by the utilization of astronomical big data. Proficient in Python programming and enthusiastic about artificial intelligence. Currently a graduate student specializing in cosmological data science. </p>
 
 <h1 align="center">Languages and Tools:</h3>
 <p align="center">
