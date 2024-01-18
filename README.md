@@ -1,4 +1,8 @@
 <center>
+<h3 align="left"><strong>About HMD</strong></h3>
+  
+Consistently fascinated by astronomy and cosmology, especially intrigued by the utilization of extensive astronomical data. Proficient in Python programming and enthusiastic about artificial intelligence. Currently a graduate student specializing in cosmological data science.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hmddev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmddev1" height="30" width="40" /></a>
@@ -12,4 +16,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hmddev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmddev" /></a></p><br><br>
 
-<center>
+</center>
